@@ -1,0 +1,240 @@
+[
+  {
+    "id": "1",
+    "name": "Flight to Paris",
+    "type": "transport",
+    "startTime": "2024-06-15T08:00:00",
+    "endTime": "2024-06-15T16:30:00",
+    "location": {
+      "name": "Charles de Gaulle Airport",
+      "coordinates": { "lat": 49.0097, "lng": 2.5479 }
+    },
+    "cost": 650,
+    "notes": "Flight AF123 - Remember to check in online",
+    "attachments": []
+  },
+  {
+    "id": "2",
+    "name": "Hotel Check-in",
+    "type": "accommodation",
+    "startTime": "2024-06-15T17:00:00",
+    "endTime": "2024-06-15T17:30:00",
+    "location": {
+      "name": "Hotel Le Marais",
+      "coordinates": { "lat": 48.8566, "lng": 2.3522 }
+    },
+    "cost": 120,
+    "notes": "Boutique hotel in the heart of Le Marais",
+    "attachments": []
+  },
+  {
+    "id": "3",
+    "name": "Welcome Dinner",
+    "type": "dining",
+    "startTime": "2024-06-15T19:30:00",
+    "endTime": "2024-06-15T21:30:00",
+    "location": {
+      "name": "L'As du Fallafel",
+      "coordinates": { "lat": 48.8575, "lng": 2.3594 }
+    },
+    "cost": 45,
+    "notes": "Famous falafel spot in the Jewish quarter",
+    "attachments": []
+  },
+  {
+    "id": "4",
+    "name": "Eiffel Tower Visit",
+    "type": "sightseeing",
+    "startTime": "2024-06-16T09:00:00",
+    "endTime": "2024-06-16T11:30:00",
+    "location": {
+      "name": "Eiffel Tower",
+      "coordinates": { "lat": 48.8584, "lng": 2.2945 }
+    },
+    "cost": 25,
+    "notes": "Book skip-the-line tickets in advance",
+    "attachments": []
+  },
+  {
+    "id": "5",
+    "name": "Seine River Cruise",
+    "type": "activity",
+    "startTime": "2024-06-16T14:00:00",
+    "endTime": "2024-06-16T15:30:00",
+    "location": {
+      "name": "Port de la Bourdonnais",
+      "coordinates": { "lat": 48.8606, "lng": 2.2978 }
+    },
+    "cost": 18,
+    "notes": "Relaxing cruise with audio guide",
+    "attachments": []
+  },
+  {
+    "id": "6",
+    "name": "Louvre Museum",
+    "type": "sightseeing",
+    "startTime": "2024-06-17T10:00:00",
+    "endTime": "2024-06-17T14:00:00",
+    "location": {
+      "name": "Louvre Museum",
+      "coordinates": { "lat": 48.8606, "lng": 2.3376 }
+    },
+    "cost": 17,
+    "notes": "Must see: Mona Lisa, Venus de Milo",
+    "attachments": []
+  },
+  {
+    "id": "7",
+    "name": "Lunch at Café de Flore",
+    "type": "dining",
+    "startTime": "2024-06-17T14:30:00",
+    "endTime": "2024-06-17T16:00:00",
+    "location": {
+      "name": "Café de Flore",
+      "coordinates": { "lat": 48.8542, "lng": 2.3320 }
+    },
+    "cost": 35,
+    "notes": "Historic café in Saint-Germain",
+    "attachments": []
+  },
+  {
+    "id": "8",
+    "name": "Montmartre Evening Walk",
+    "type": "activity",
+    "startTime": "2024-06-17T18:00:00",
+    "endTime": "2024-06-17T20:30:00",
+    "location": {
+      "name": "Montmartre",
+      "coordinates": { "lat": 48.8867, "lng": 2.3431 }
+    },
+    "cost": 0,
+    "notes": "Visit Sacré-Cœur and artist squares",
+    "attachments": []
+  },
+  {
+    "id": "9",
+    "name": "Flight to Tokyo",
+    "type": "transport",
+    "startTime": "2024-04-01T10:00:00",
+    "endTime": "2024-04-01T18:45:00",
+    "location": {
+      "name": "Haneda Airport",
+      "coordinates": { "lat": 35.5494, "lng": 139.7798 }
+    },
+    "cost": 850,
+    "notes": "JAL Direct flight - vegetarian meal ordered",
+    "attachments": []
+  },
+  {
+    "id": "10",
+    "name": "Shibuya Crossing Experience",
+    "type": "sightseeing",
+    "startTime": "2024-04-01T20:00:00",
+    "endTime": "2024-04-01T21:30:00",
+    "location": {
+      "name": "Shibuya Crossing",
+      "coordinates": { "lat": 35.6598, "lng": 139.7006 }
+    },
+    "cost": 0,
+    "notes": "World's busiest pedestrian crossing",
+    "attachments": []
+  },
+  {
+    "id": "11",
+    "name": "Tsukiji Outer Market Food Tour",
+    "type": "dining",
+    "startTime": "2024-04-02T07:00:00",
+    "endTime": "2024-04-02T09:30:00",
+    "location": {
+      "name": "Tsukiji Outer Market",
+      "coordinates": { "lat": 35.6654, "lng": 139.7707 }
+    },
+    "cost": 65,
+    "notes": "Fresh sushi and street food",
+    "attachments": []
+  },
+  {
+    "id": "12",
+    "name": "Senso-ji Temple",
+    "type": "sightseeing",
+    "startTime": "2024-04-02T11:00:00",
+    "endTime": "2024-04-02T13:00:00",
+    "location": {
+      "name": "Senso-ji Temple",
+      "coordinates": { "lat": 35.7148, "lng": 139.7967 }
+    },
+    "cost": 0,
+    "notes": "Tokyo's oldest temple in Asakusa",
+    "attachments": []
+  },
+  {
+    "id": "13",
+    "name": "Cherry Blossom Picnic",
+    "type": "activity",
+    "startTime": "2024-04-02T14:30:00",
+    "endTime": "2024-04-02T17:00:00",
+    "location": {
+      "name": "Ueno Park",
+      "coordinates": { "lat": 35.7140, "lng": 139.7744 }
+    },
+    "cost": 15,
+    "notes": "Hanami season - bring picnic mat",
+    "attachments": []
+  },
+  {
+    "id": "14",
+    "name": "Arrival in Bangkok",
+    "type": "transport",
+    "startTime": "2024-08-20T14:30:00",
+    "endTime": "2024-08-20T15:00:00",
+    "location": {
+      "name": "Suvarnabhumi Airport",
+      "coordinates": { "lat": 13.6900, "lng": 100.7501 }
+    },
+    "cost": 450,
+    "notes": "Budget airline - check baggage allowance",
+    "attachments": []
+  },
+  {
+    "id": "15",
+    "name": "Street Food Tour",
+    "type": "dining",
+    "startTime": "2024-08-20T19:00:00",
+    "endTime": "2024-08-20T22:00:00",
+    "location": {
+      "name": "Chatuchak Weekend Market",
+      "coordinates": { "lat": 13.7998, "lng": 100.5500 }
+    },
+    "cost": 25,
+    "notes": "Try pad thai, mango sticky rice",
+    "attachments": []
+  },
+  {
+    "id": "16",
+    "name": "Grand Palace Visit",
+    "type": "sightseeing",
+    "startTime": "2024-08-21T09:00:00",
+    "endTime": "2024-08-21T12:00:00",
+    "location": {
+      "name": "Grand Palace",
+      "coordinates": { "lat": 13.7500, "lng": 100.4915 }
+    },
+    "cost": 15,
+    "notes": "Dress code: long pants and covered shoulders",
+    "attachments": []
+  },
+  {
+    "id": "17",
+    "name": "Chao Phraya River Boat",
+    "type": "transport",
+    "startTime": "2024-08-21T13:30:00",
+    "endTime": "2024-08-21T14:30:00",
+    "location": {
+      "name": "Saphan Taksin Pier",
+      "coordinates": { "lat": 13.7198, "lng": 100.5117 }
+    },
+    "cost": 3,
+    "notes": "Local boat transport - very affordable",
+    "attachments": []
+  }
+]

@@ -1,0 +1,184 @@
+[
+  {
+    "id": "1",
+    "name": "Paris, France",
+    "coordinates": { "lat": 48.8566, "lng": 2.3522 },
+    "arrivalDate": "2024-06-15",
+    "departureDate": "2024-06-20",
+    "accommodation": {
+      "name": "Hotel Le Marais",
+      "address": "15 Rue des Rosiers, 75004 Paris",
+      "type": "hotel",
+      "rating": 4.2,
+      "pricePerNight": 120
+    }
+  },
+  {
+    "id": "2",
+    "name": "Rome, Italy",
+    "coordinates": { "lat": 41.9028, "lng": 12.4964 },
+    "arrivalDate": "2024-06-20",
+    "departureDate": "2024-06-24",
+    "accommodation": {
+      "name": "Roma Heritage Hotel",
+      "address": "Via del Corso, 00186 Roma",
+      "type": "hotel",
+      "rating": 4.5,
+      "pricePerNight": 95
+    }
+  },
+  {
+    "id": "3",
+    "name": "Barcelona, Spain",
+    "coordinates": { "lat": 41.3851, "lng": 2.1734 },
+    "arrivalDate": "2024-06-24",
+    "departureDate": "2024-06-28",
+    "accommodation": {
+      "name": "Gothic Quarter Apartment",
+      "address": "Carrer del Bisbe, 08002 Barcelona",
+      "type": "apartment",
+      "rating": 4.7,
+      "pricePerNight": 85
+    }
+  },
+  {
+    "id": "4",
+    "name": "Tokyo, Japan",
+    "coordinates": { "lat": 35.6762, "lng": 139.6503 },
+    "arrivalDate": "2024-04-01",
+    "departureDate": "2024-04-06",
+    "accommodation": {
+      "name": "Shibuya Modern Hotel",
+      "address": "1-1-1 Shibuya, Tokyo",
+      "type": "hotel",
+      "rating": 4.4,
+      "pricePerNight": 140
+    }
+  },
+  {
+    "id": "5",
+    "name": "Kyoto, Japan",
+    "coordinates": { "lat": 35.0116, "lng": 135.7681 },
+    "arrivalDate": "2024-04-06",
+    "departureDate": "2024-04-08",
+    "accommodation": {
+      "name": "Traditional Ryokan Zen",
+      "address": "123 Gion District, Kyoto",
+      "type": "ryokan",
+      "rating": 4.8,
+      "pricePerNight": 180
+    }
+  },
+  {
+    "id": "6",
+    "name": "Osaka, Japan",
+    "coordinates": { "lat": 34.6937, "lng": 135.5023 },
+    "arrivalDate": "2024-04-08",
+    "departureDate": "2024-04-10",
+    "accommodation": {
+      "name": "Dotonbori Business Hotel",
+      "address": "5-5-1 Namba, Osaka",
+      "type": "hotel",
+      "rating": 4.1,
+      "pricePerNight": 90
+    }
+  },
+  {
+    "id": "7",
+    "name": "Bangkok, Thailand",
+    "coordinates": { "lat": 13.7563, "lng": 100.5018 },
+    "arrivalDate": "2024-08-20",
+    "departureDate": "2024-08-25",
+    "accommodation": {
+      "name": "Khao San Road Hostel",
+      "address": "Khao San Road, Bangkok",
+      "type": "hostel",
+      "rating": 3.9,
+      "pricePerNight": 25
+    }
+  },
+  {
+    "id": "8",
+    "name": "Ho Chi Minh City, Vietnam",
+    "coordinates": { "lat": 10.8231, "lng": 106.6297 },
+    "arrivalDate": "2024-08-25",
+    "departureDate": "2024-09-02",
+    "accommodation": {
+      "name": "Saigon Backpacker Hostel",
+      "address": "District 1, Ho Chi Minh City",
+      "type": "hostel",
+      "rating": 4.0,
+      "pricePerNight": 18
+    }
+  },
+  {
+    "id": "9",
+    "name": "Siem Reap, Cambodia",
+    "coordinates": { "lat": 13.3671, "lng": 103.8448 },
+    "arrivalDate": "2024-09-02",
+    "departureDate": "2024-09-08",
+    "accommodation": {
+      "name": "Angkor Heritage Hotel",
+      "address": "Siem Reap Center",
+      "type": "hotel",
+      "rating": 4.3,
+      "pricePerNight": 45
+    }
+  },
+  {
+    "id": "10",
+    "name": "Manhattan, NY",
+    "coordinates": { "lat": 40.7831, "lng": -73.9712 },
+    "arrivalDate": "2024-05-10",
+    "departureDate": "2024-05-17",
+    "accommodation": {
+      "name": "Times Square Hotel",
+      "address": "Broadway, New York",
+      "type": "hotel",
+      "rating": 4.2,
+      "pricePerNight": 200
+    }
+  },
+  {
+    "id": "11",
+    "name": "Reykjavik, Iceland",
+    "coordinates": { "lat": 64.1466, "lng": -21.9426 },
+    "arrivalDate": "2024-07-05",
+    "departureDate": "2024-07-12",
+    "accommodation": {
+      "name": "Nordic Lodge",
+      "address": "Downtown Reykjavik",
+      "type": "hotel",
+      "rating": 4.6,
+      "pricePerNight": 160
+    }
+  },
+  {
+    "id": "12",
+    "name": "Akureyri, Iceland",
+    "coordinates": { "lat": 65.6835, "lng": -18.0878 },
+    "arrivalDate": "2024-07-12",
+    "departureDate": "2024-07-15",
+    "accommodation": {
+      "name": "Northern Lights Guesthouse",
+      "address": "Akureyri Center",
+      "type": "guesthouse",
+      "rating": 4.4,
+      "pricePerNight": 85
+    }
+  },
+  {
+    "id": "13",
+    "name": "Vik, Iceland",
+    "coordinates": { "lat": 63.4186, "lng": -19.0059 },
+    "arrivalDate": "2024-07-15",
+    "departureDate": "2024-07-18",
+    "accommodation": {
+      "name": "Black Beach Lodge",
+      "address": "Vik i Myrdal",
+      "type": "lodge",
+      "rating": 4.7,
+      "pricePerNight": 120
+    }
+  }
+]

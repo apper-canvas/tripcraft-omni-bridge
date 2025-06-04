@@ -1,0 +1,51 @@
+[
+  {
+    "id": "1",
+    "tripId": "1",
+    "days": [
+      {
+        "date": "2024-06-15",
+        "activities": ["1", "2", "3"]
+      },
+      {
+        "date": "2024-06-16",
+        "activities": ["4", "5"]
+      },
+      {
+        "date": "2024-06-17",
+        "activities": ["6", "7", "8"]
+      }
+    ],
+    "totalBudget": 2850
+  },
+  {
+    "id": "2",
+    "tripId": "2",
+    "days": [
+      {
+        "date": "2024-04-01",
+        "activities": ["9", "10"]
+      },
+      {
+        "date": "2024-04-02",
+        "activities": ["11", "12", "13"]
+      }
+    ],
+    "totalBudget": 1800
+  },
+  {
+    "id": "3",
+    "tripId": "3",
+    "days": [
+      {
+        "date": "2024-08-20",
+        "activities": ["14", "15"]
+      },
+      {
+        "date": "2024-08-21",
+        "activities": ["16", "17"]
+      }
+    ],
+    "totalBudget": 950
+  }
+]

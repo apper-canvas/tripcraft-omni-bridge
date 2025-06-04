@@ -1,0 +1,63 @@
+[
+  {
+    "id": "1",
+    "name": "European Adventure",
+    "startDate": "2024-06-15",
+    "endDate": "2024-06-28",
+    "destinations": ["Paris, France", "Rome, Italy", "Barcelona, Spain"],
+    "collaborators": [
+      { "id": 1, "name": "Alex Chen", "avatar": "👤" },
+      { "id": 2, "name": "Sarah Johnson", "avatar": "👩" },
+      { "id": 3, "name": "Mike Rodriguez", "avatar": "👨" }
+    ],
+    "coverImage": "https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=800&h=400&fit=crop"
+  },
+  {
+    "id": "2",
+    "name": "Tokyo Cherry Blossom",
+    "startDate": "2024-04-01",
+    "endDate": "2024-04-10",
+    "destinations": ["Tokyo, Japan", "Kyoto, Japan", "Osaka, Japan"],
+    "collaborators": [
+      { "id": 1, "name": "Emma Watson", "avatar": "👩" },
+      { "id": 4, "name": "David Kim", "avatar": "👨" }
+    ],
+    "coverImage": "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?w=800&h=400&fit=crop"
+  },
+  {
+    "id": "3",
+    "name": "Southeast Asia Backpacking",
+    "startDate": "2024-08-20",
+    "endDate": "2024-09-15",
+    "destinations": ["Bangkok, Thailand", "Ho Chi Minh City, Vietnam", "Siem Reap, Cambodia"],
+    "collaborators": [
+      { "id": 5, "name": "Lucas Brown", "avatar": "👨" }
+    ],
+    "coverImage": "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?w=800&h=400&fit=crop"
+  },
+  {
+    "id": "4",
+    "name": "New York City Explorer",
+    "startDate": "2024-05-10",
+    "endDate": "2024-05-17",
+    "destinations": ["Manhattan, NY", "Brooklyn, NY", "Queens, NY"],
+    "collaborators": [
+      { "id": 6, "name": "Rachel Green", "avatar": "👩" },
+      { "id": 7, "name": "Joey Tribbiani", "avatar": "👨" },
+      { "id": 8, "name": "Monica Geller", "avatar": "👩" }
+    ],
+    "coverImage": "https://images.unsplash.com/photo-1496442226666-8d4d0e62e6e9?w=800&h=400&fit=crop"
+  },
+  {
+    "id": "5",
+    "name": "Iceland Ring Road",
+    "startDate": "2024-07-05",
+    "endDate": "2024-07-18",
+    "destinations": ["Reykjavik, Iceland", "Akureyri, Iceland", "Vik, Iceland"],
+    "collaborators": [
+      { "id": 9, "name": "Oliver Smith", "avatar": "👨" },
+      { "id": 10, "name": "Sophia Wilson", "avatar": "👩" }
+    ],
+    "coverImage": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&h=400&fit=crop"
+  }
+]
