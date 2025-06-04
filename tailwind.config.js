@@ -4,20 +4,38 @@ export default {
     "./index.html",
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
-  theme: {
+theme: {
     extend: {
       colors: {
+        border: '#e2e8f0',
+        input: '#e2e8f0',
+        ring: '#2563EB',
+        background: '#ffffff',
+        foreground: '#0f172a',
+        muted: {
+          DEFAULT: '#f1f5f9',
+          foreground: '#64748b'
+        },
+        destructive: {
+          DEFAULT: '#ef4444',
+          foreground: '#ffffff'
+        },
         primary: {
           DEFAULT: '#2563EB',
           light: '#60A5FA',
-          dark: '#1D4ED8'
+          dark: '#1D4ED8',
+          foreground: '#ffffff'
         },
         secondary: {
           DEFAULT: '#10B981',
           light: '#34D399',
-          dark: '#059669'
+          dark: '#059669',
+          foreground: '#ffffff'
         },
-        accent: '#F59E0B',
+        accent: {
+          DEFAULT: '#F59E0B',
+          foreground: '#ffffff'
+        },
         surface: {
           50: '#f8fafc',
           100: '#f1f5f9',
